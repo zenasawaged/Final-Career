@@ -1,0 +1,350 @@
+.results-screen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.results-screen-results-screen {
+  width: 100%;
+  height: 3201px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.results-screen-header {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 99px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.results-screen-text {
+  top: 201px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text02 {
+  top: 302px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 404px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-skills-match-wheel {
+  top: 159px;
+  left: 852px;
+  width: 421px;
+  height: 421px;
+  position: absolute;
+}
+.results-screen-text04 {
+  top: 334px;
+  left: 953px;
+  color: rgba(0, 0, 0, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.results-screen-alt-search {
+  top: 719px;
+  left: 0px;
+  width: 1440px;
+  height: 620px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.results-screen-ellipse1 {
+  top: 789px;
+  left: 189px;
+  width: 451px;
+  height: 451px;
+  position: absolute;
+}
+.results-screen-text06 {
+  top: 883px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-top-role-recs {
+  top: 788px;
+  left: 730px;
+  width: 608px;
+  height: 482px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.results-screen-top-role-suggestions {
+  top: 24px;
+  left: 0px;
+  width: 608px;
+  height: 458px;
+  position: absolute;
+}
+.results-screen-role-suggestions {
+  top: 89px;
+  left: 56px;
+  width: 487px;
+  height: 303px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.results-screen-roleand-matchbasedonskills {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.results-screen-text08 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text10 {
+  left: 333px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-roleand-matchbasedonskills1 {
+  top: 88px;
+  left: 0px;
+  width: 487px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.results-screen-text12 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text14 {
+  left: 333px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-roleand-matchbasedonskills2 {
+  top: 176px;
+  left: 0px;
+  width: 487px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.results-screen-text16 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text18 {
+  left: 333px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-roleand-matchbasedonskills3 {
+  top: 264px;
+  left: 0px;
+  width: 487px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.results-screen-text20 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text22 {
+  left: 333px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text24 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-top-skills-match {
+  top: 1444px;
+  left: 122px;
+  width: 608px;
+  height: 458px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(156, 156, 156, 1);
+}
+.results-screen-text26 {
+  top: 41px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text28 {
+  top: 109px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text30 {
+  top: 167px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text32 {
+  top: 225px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text34 {
+  top: 283px;
+  left: 69px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-upskill-opportunities {
+  top: 2028px;
+  left: 123px;
+  width: 608px;
+  height: 458px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(156, 156, 156, 1);
+}
+.results-screen-text36 {
+  top: 57px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text38 {
+  top: 133px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text40 {
+  top: 191px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.results-screen-text42 {
+  top: 249px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}

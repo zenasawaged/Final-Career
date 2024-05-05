@@ -1,0 +1,118 @@
+.upload-resume-screen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.upload-resume-screen-upload-resume-screen {
+  width: 100%;
+  height: 2217px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.upload-resume-screen-header {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 99px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.upload-resume-screen-text {
+  top: 211px;
+  left: 582px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.upload-resume-screen-text02 {
+  top: 312px;
+  left: 518px;
+  color: rgba(0, 0, 0, 1);
+  width: 404px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.upload-resume-screen-alt-search {
+  top: 719px;
+  left: 0px;
+  width: 1440px;
+  height: 620px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.upload-resume-screen-frame24softwarecloudupload {
+  top: 857px;
+  left: 685px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.upload-resume-screen-icon {
+  top: 13.333333015441895px;
+  left: 3.3333332538604736px;
+  width: 73px;
+  height: 57px;
+  position: absolute;
+}
+.upload-resume-screen-text04 {
+  top: 1184px;
+  left: 467px;
+  color: rgba(0, 0, 0, 1);
+  width: 490px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.upload-resume-screen-text06 {
+  top: 1414px;
+  left: 487px;
+  color: rgba(0, 0, 0, 1);
+  width: 490px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.upload-resume-screen-cta-button {
+  gap: 10px;
+  top: 1012px;
+  left: 550px;
+  width: 340px;
+  display: flex;
+  padding: 41px 125px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: rgba(156, 156, 156, 1);
+}
+.upload-resume-screen-text08 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}

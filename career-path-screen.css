@@ -1,0 +1,249 @@
+.career-path-screen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.career-path-screen-career-path-screen {
+  width: 100%;
+  height: 3201px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.career-path-screen-header {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 99px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.career-path-screen-text {
+  top: 201px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 345px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text02 {
+  top: 302px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 404px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-skills-match-wheel {
+  top: 159px;
+  left: 852px;
+  width: 421px;
+  height: 421px;
+  position: absolute;
+}
+.career-path-screen-text04 {
+  top: 334px;
+  left: 953px;
+  color: rgba(0, 0, 0, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.career-path-screen-learn-moreabout-role {
+  top: 719px;
+  left: 0px;
+  width: 1440px;
+  height: 620px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.career-path-screen-text06 {
+  top: 164px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text08 {
+  top: 279px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text10 {
+  top: 322px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 345px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text12 {
+  top: 365px;
+  left: 121px;
+  color: rgba(0, 0, 0, 1);
+  width: 345px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-top-skills-match {
+  top: 1466px;
+  left: 62px;
+  width: 608px;
+  height: 458px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(156, 156, 156, 1);
+}
+.career-path-screen-text14 {
+  top: 41px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text16 {
+  top: 109px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text18 {
+  top: 167px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text20 {
+  top: 225px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text22 {
+  top: 283px;
+  left: 69px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-upskill-opportunities {
+  top: 1466px;
+  left: 770px;
+  width: 608px;
+  height: 458px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(156, 156, 156, 1);
+}
+.career-path-screen-text24 {
+  top: 57px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 417px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text26 {
+  top: 133px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text28 {
+  top: 191px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-text30 {
+  top: 249px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.career-path-screen-job-opportunities {
+  top: 2044px;
+  left: 0px;
+  width: 1440px;
+  height: 620px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.career-path-screen-text32 {
+  top: 164px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}

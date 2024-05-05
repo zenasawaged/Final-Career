@@ -1,0 +1,106 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-home {
+  width: 100%;
+  height: 2217px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-hero {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 719px;
+  position: absolute;
+}
+.home-header {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 99px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.home-cta-button {
+  gap: 10px;
+  top: 464px;
+  left: 102px;
+  width: 340px;
+  display: flex;
+  padding: 41px 125px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.home-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.home-text2 {
+  top: 203px;
+  left: 102px;
+  color: rgba(255, 255, 255, 1);
+  width: 462px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.home-text4 {
+  top: 294px;
+  left: 102px;
+  color: rgba(255, 255, 255, 1);
+  width: 404px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.home-screenshotofresumeortool {
+  top: 168px;
+  left: 730px;
+  width: 608px;
+  height: 458px;
+  position: absolute;
+}
+.home-text6 {
+  top: 331px;
+  left: 857px;
+  color: rgba(0, 0, 0, 1);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.home-alt-search {
+  top: 719px;
+  left: 0px;
+  width: 1440px;
+  height: 620px;
+  position: absolute;
+}
+.home-footer {
+  top: 2029px;
+  left: 0px;
+  width: 1440px;
+  height: 188px;
+  position: absolute;
+}
